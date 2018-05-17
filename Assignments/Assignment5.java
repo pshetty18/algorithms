@@ -1,4 +1,3 @@
-// Program used from http://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
 import java.util.*;
 import java.lang.*;
 import java.io.*;
